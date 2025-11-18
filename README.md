@@ -52,16 +52,15 @@ $ npm start (to start the server), or nodemon server
 ##  🔌 Technologies used ✔️:
 ![Static Badge](https://img.shields.io/badge/typeScript--blue?style=for-the-badge&logo=typescript&logoColor=black&logoSize=auto&label=TypeScript&labelColor=Black)
 ![Static Badge](https://img.shields.io/badge/Angular%2018.2.0--lightblue?style=for-the-badge&logo=angular&logoColor=darkred&logoSize=auto&label=Angular&labelColor=lightgreen&color=lightgreen)
-![Static Badge](https://img.shields.io/badge/Redux-Toolkit--gray?style=for-the-badge&logo=redux&logoColor=black&logoSize=auto&label=Redux%20Toolkit&labelColor=lightbrown&color=black)
+![Static Badge](https://img.shields.io/badge/Postgres--gray?style=for-the-badge&logo=Postgres&logoColor=black&logoSize=auto&label=Postgres%20Toolkit&labelColor=lightbrown&color=black)
 ![Static Badge](https://img.shields.io/badge/cors%20-yellow?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/dotenv-black?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/mongoDB%20-aqua?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/mongoose-purple?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Signals%20-aqua?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Nestjs-purple?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/Express-navy?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/bootstrap-teal?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/rxjs%20-aqua?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/multer%20-aqua?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/GRAPHQL?style=for-the-badge)
 
 
 ##  Screenshots:
@@ -102,7 +101,7 @@ $ npm start (to start the server), or nodemon server
 
 - [Node js](https://nodejs.org/en/) -A runtime environment to help build fast server applications using JS
 - [Express js](https://www.npmjs.com/package/express) -The server for handling and routing HTTP requests
-- [Mongoose](https://mongoosejs.com/) - For modeling and mapping MongoDB data to JavaScript
+- [Postgres](https://mongoosejs.com/) - For modeling and mapping SQL data to JavaScript
 - [jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken) - For authentication
 - [cookie-parser](https://www.npmjs.com/package/cookie-parser) - Middleware module used in Node.js web applications to manage cookies
 - [Multer](https://www.npmjs.com/package/multer) - Multer is a node.js middleware for handling multipart/form-data, which is primarily used for uploading files. 
@@ -110,7 +109,7 @@ $ npm start (to start the server), or nodemon server
 - [Dotenv](https://www.npmjs.com/package/dotenv) - Zero Dependency module that loads environment variables
 - [express-validator](https://www.npmjs.com/package/express-validator) - Used in Node.js applications with the Express framework to validate data submitted by users (user input)
 - [nodemon](https://nodemon.io/) - Development utility for Node.js applications. Node.js is a runtime platform that allows you to run JavaScript on the server side.t
-- [GraphQl, Apollo V3](https://nodemon.io/) - GraphQL is an open‑source query language for APIs and a server‑side runtime.
+- [Nestjs]() - NestJS is a framework for building efficient, scalable Node.js web applications. It uses modern JavaScript.
 
 
 ####  Database 
